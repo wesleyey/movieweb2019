@@ -1,0 +1,2 @@
+img{height:350px;width:235px}.movie{display:flex;margin:20px 10px 10px 20px}.movie__data{margin-left:20px;align-self:flex-start}.movie__title{color:#fff;font-size:30px;margin-top:0;margin-bottom:20px}.movie__year{margin-top:0;color:#fff;font-size:15px}.movie__summary{color:#fff;font-size:20px}body{background-color:#141414;height:100%}.loader{color:#fff;font-size:30px}.movies{display:grid;grid-template-columns:45% 45%;grid-column-gap:10%;-webkit-column-gap:10%;-moz-column-gap:10%;column-gap:10%}
+/*# sourceMappingURL=main.59f7c977.chunk.css.map */

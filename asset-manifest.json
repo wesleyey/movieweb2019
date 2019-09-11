@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movieweb2019/static/css/main.59f7c977.chunk.css",
+    "main.js": "/movieweb2019/static/js/main.d0c28b90.chunk.js",
+    "main.js.map": "/movieweb2019/static/js/main.d0c28b90.chunk.js.map",
+    "runtime~main.js": "/movieweb2019/static/js/runtime~main.c3e06db3.js",
+    "runtime~main.js.map": "/movieweb2019/static/js/runtime~main.c3e06db3.js.map",
+    "static/js/2.196c9c43.chunk.js": "/movieweb2019/static/js/2.196c9c43.chunk.js",
+    "static/js/2.196c9c43.chunk.js.map": "/movieweb2019/static/js/2.196c9c43.chunk.js.map",
+    "index.html": "/movieweb2019/index.html",
+    "precache-manifest.ce8b2cc81fb6431d2b9ee0a6d639396c.js": "/movieweb2019/precache-manifest.ce8b2cc81fb6431d2b9ee0a6d639396c.js",
+    "service-worker.js": "/movieweb2019/service-worker.js",
+    "static/css/main.59f7c977.chunk.css.map": "/movieweb2019/static/css/main.59f7c977.chunk.css.map"
+  }
+}
