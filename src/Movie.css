@@ -1,0 +1,32 @@
+img {
+    height : 350px;
+    width : 235px
+}
+
+.movie {
+    display: flex;
+    margin : 20px 10px 10px 20px
+}
+
+.movie__data {
+    margin-left : 20px;
+    align-self : flex-start
+}
+
+.movie__title {
+    color:white;
+    font-size : 30px;
+    margin-top : 0px;
+    margin-bottom : 20px
+}
+
+.movie__year {
+    margin-top : 0px;
+    color: white;
+    font-size: 15px
+}
+
+.movie__summary {
+    color: white;
+    font-size: 20px;
+}
